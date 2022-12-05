@@ -1,1 +1,1 @@
-https://AsssetNakupov.github.io/rsschool-cv/cv
+https://AssetNakupov.github.io/rsschool-cv/cv
