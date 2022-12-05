@@ -16,5 +16,5 @@
 * KIMEP Honor Society - Academic Achievement Award
 ## Languages
 * English (fluent)
-* Russian (flient)
+* Russian (fluent)
 * Kazakh (elementary)
