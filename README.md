@@ -1,2 +1,1 @@
-# rsschool-cv
-RS School - Stage 0
+https://AssetNakupov.github.io/rsschool-cv/cv
